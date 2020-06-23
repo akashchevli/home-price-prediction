@@ -25,7 +25,6 @@ def menuCategory():
     menu = ['EDA','Plot','Prediction']
     choice = st.sidebar.selectbox("Select Category", menu)
     house_data = pd.read_csv('house_df6.csv')
-    st.text("@author:Aakash chevli")
     st.markdown("<h1 style='text-align: center; color: #FF851B;'>House Price Predictor</h1><hr>'", unsafe_allow_html=True)
     try:
         if choice == 'EDA':
