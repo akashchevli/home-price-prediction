@@ -32,6 +32,6 @@ The project contain three components:
       
       To install pip run in the command Line
     
-        <pre>
-          <p>python -m ensurepip -- default-pip</p>
-        </pre>
+        
+          <span>python -m ensurepip -- default-pip</span>
+        
