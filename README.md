@@ -14,7 +14,7 @@ Link:https://home-price-prediction.herokuapp.com/
 ### **Overview**
 <hr/>
 
-This is the **Streamlit** base **Machine learning** web app to predict the house price in bangalore and deploy a model on **Heroku** platform.
+This is the **Streamlit** base **Machine learning** web app to predict the house price in Bangalore by taking different parameter as an input like Location, Square Feet, Bedrooms and Bathrooms  and  deploy  a  model  on the  Heroku platform.
 
 The project contain three components:
 
